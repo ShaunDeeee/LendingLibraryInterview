@@ -15,5 +15,3 @@ dotnet ef migrations add "Initial Migration" -p ./LendingLibraryInterview.Data -
 
 ## Notes for Cera staff:
 https://ceracare.atlassian.net/wiki/x/AYCos
-
-##Test Edit
